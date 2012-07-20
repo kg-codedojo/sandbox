@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.mina_mina-core_2.0.0-M5_test">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/org.apache.mina/mina-core/bundles/mina-core-2.0.0-M5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

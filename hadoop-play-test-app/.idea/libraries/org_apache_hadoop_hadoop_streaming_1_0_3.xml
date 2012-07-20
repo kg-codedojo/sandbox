@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.hadoop_hadoop-streaming_1.0.3">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/org.apache.hadoop/hadoop-streaming/jars/hadoop-streaming-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

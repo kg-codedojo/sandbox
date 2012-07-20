@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="log4j_log4j_1.2.15_test">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/log4j/log4j/jars/log4j-1.2.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-io_commons-io_2.4">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/commons-io/commons-io/jars/commons-io-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

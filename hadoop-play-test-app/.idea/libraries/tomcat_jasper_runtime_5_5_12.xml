@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcat_jasper-runtime_5.5.12">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/tomcat/jasper-runtime/jars/jasper-runtime-5.5.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jdt_core_3.1.1">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/org.eclipse.jdt/core/jars/core-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

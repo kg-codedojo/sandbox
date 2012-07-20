@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="oro_oro_2.0.8">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/oro/oro/jars/oro-2.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

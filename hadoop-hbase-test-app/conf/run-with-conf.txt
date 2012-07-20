@@ -1,0 +1,1 @@
+hadoop fs -conf conf/hadoop-localhost.hadoop.xml -ls .

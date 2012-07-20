@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.ftpserver_ftplet-api_1.0.0_test">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/org.apache.ftpserver/ftplet-api/bundles/ftplet-api-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

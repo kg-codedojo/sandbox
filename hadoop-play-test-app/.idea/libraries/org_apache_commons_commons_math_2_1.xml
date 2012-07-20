@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.commons_commons-math_2.1">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/org.apache.commons/commons-math/jars/commons-math-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

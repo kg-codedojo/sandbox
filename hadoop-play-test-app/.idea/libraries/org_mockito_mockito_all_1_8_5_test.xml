@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.mockito_mockito-all_1.8.5_test">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/org.mockito/mockito-all/jars/mockito-all-1.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

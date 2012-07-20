@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.ftpserver_ftpserver-deprecated_1.0.0-M2_test">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/org.apache.ftpserver/ftpserver-deprecated/jars/ftpserver-deprecated-1.0.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit_junit_4.10_test">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/junit/junit/jars/junit-4.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

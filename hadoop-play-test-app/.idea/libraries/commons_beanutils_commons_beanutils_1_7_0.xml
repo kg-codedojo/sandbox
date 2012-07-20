@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-beanutils_commons-beanutils_1.7.0">
+    <CLASSES>
+      <root url="jar:///usr/share/play/repository/cache/commons-beanutils/commons-beanutils/jars/commons-beanutils-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
